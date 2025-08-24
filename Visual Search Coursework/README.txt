@@ -1,4 +1,3 @@
-Source code is found in the cwork_basecode_2012 folder
 -----------------------------------------------------------------------------------------------------
 =====> To save a descriptor (globalRGB, spatial Grid , eoh, eoh with colour):
 	--->  Go to cvpr_computedescriptors.m
