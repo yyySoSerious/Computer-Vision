@@ -1,3 +1,5 @@
+First, download the MSVC-V2 data set from http://download.microsoft.com/download/3/3/9/339D8A24-47D7-412F-A1E8-
+1A415BC48A15/msrc_objcategimagedatabase_v2.zip  and save it as MSRC_ObjCategImageDatabase_v2 in this directory
 -----------------------------------------------------------------------------------------------------
 =====> To save a descriptor (globalRGB, spatial Grid , eoh, eoh with colour):
 	--->  Go to cvpr_computedescriptors.m
